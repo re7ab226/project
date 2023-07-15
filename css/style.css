@@ -699,4 +699,10 @@ h6,
     color: #B0B9AE;
     border-top: 1px solid rgba(255, 255, 255, .1);
 }
-1
+.text-muted {
+    color:#FF5E14 !important; 
+}
+.text-muted:hover {
+
+    font-size: 20px !important;
+}
