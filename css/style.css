@@ -234,7 +234,7 @@ h6,
 }
 
 .page-header .breadcrumb-item+.breadcrumb-item::before {
-    color: var(--light);
+ 
 }
 
 .page-header .breadcrumb-item,
@@ -705,4 +705,13 @@ h6,
 .text-muted:hover {
 
     font-size: 20px !important;
+}
+.text-white {
+    color: #000000 !important;
+}
+.page-header .breadcrumb-item{
+    color:#FF5E14 !important;
+}
+.page-header .breadcrumb-item a {
+    color: #FF5E14 !important;
 }
