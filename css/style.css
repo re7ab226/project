@@ -715,3 +715,17 @@ h6,
 .page-header .breadcrumb-item a {
     color: #FF5E14 !important;
 }
+.sli1{
+font-size: 50px !important;
+}
+.he{
+    padding: 7px !important;
+}
+.em1{
+    font-size: 15px !important;
+}
+.foo{
+    font-size: 20px !important;
+    color: rgb(247, 245, 245) !important;
+    display: inline-block;
+}
